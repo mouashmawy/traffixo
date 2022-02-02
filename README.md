@@ -8,6 +8,6 @@ The software is a traffic recommendation system that takes the number of cars en
 
 </br>
 <h3> 2 screenshots of the software </h3>
-<img align="left" alt="C++" width="400px" src="https://i.ibb.co/dPRC51x/Screenshot-86.png" />
-<img align="left" alt="C++" width="400px" src="https://i.ibb.co/J3r4JHr/Screenshot-88.png" />
+<img align="left" alt="C++" width="300px" src="https://i.ibb.co/dPRC51x/Screenshot-86.png" />
+<img align="left" alt="C++" width="300px" src="https://i.ibb.co/J3r4JHr/Screenshot-88.png" />
 
